@@ -31,9 +31,8 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<a href="https://www.linkedin.com/in/yusuf-caglar-aksoy">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://www.instagram.com/l.ycaksoy.l" title="Instagram">
