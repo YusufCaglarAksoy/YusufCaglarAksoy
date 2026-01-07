@@ -20,20 +20,27 @@
 <!-- ========================================================= -->
 <!-- 🔗 SOCIAL ICONS                                             -->
 <!-- ========================================================= -->
-
 <p align="center">
   <a href="https://yusufcaglaraksoy.com" title="Portfolio">
     <img width="32px" alt="Portfolio" src="https://cdn.simpleicons.org/vercel/ffffff" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
   <a href="https://github.com/YusufCaglarAksoy" title="GitHub">
     <img width="32px" alt="GitHub" src="https://cdn.simpleicons.org/github/ffffff" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
   <a href="https://www.linkedin.com/in/yusuf-caglar-aksoy" title="LinkedIn">
     <img width="32px" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://www.instagram.com/l.ycaksoy.l" title="Instagram">
+    <img width="32px" alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
   <a href="mailto:yusufcaglar_aksoy@hotmail.com" title="Email">
     <img width="32px" alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
