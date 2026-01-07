@@ -21,31 +21,43 @@
 <!-- 🔗 SOCIAL ICONS                                             -->
 <!-- ========================================================= -->
 <p align="center">
+
   <a href="https://yusufcaglaraksoy.com" title="Portfolio">
-    <img width="32px" alt="Portfolio" src="https://cdn.simpleicons.org/vercel/ffffff" />
+    <img 
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://github.com/YusufCaglarAksoy" title="GitHub">
-    <img width="32px" alt="GitHub" src="https://cdn.simpleicons.org/github/ffffff" />
+    <img 
+      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-YusufCaglarAksoy-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/yusuf-caglar-aksoy" title="LinkedIn">
+    <img 
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Yusuf%20Çağlar%20Aksoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 
   <a href="https://www.instagram.com/l.ycaksoy.l" title="Instagram">
-    <img width="32px" alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" />
+    <img 
+      alt="Instagram"
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="mailto:yusufcaglar_aksoy@hotmail.com" title="Email">
-    <img width="32px" alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img 
+      alt="Email"
+      src="https://img.shields.io/badge/Email-yusufcaglar__aksoy%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
-</p>
 
-<br/>
+</p>
 
 <!-- ========================================================= -->
 <!-- 🏷️ SOCIAL BADGES                                            -->
