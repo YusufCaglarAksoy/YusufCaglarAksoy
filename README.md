@@ -95,16 +95,10 @@ I am a Frontend Developer who builds scalable and high-performance web interface
 <!-- If github-readme-stats is unstable, self-host it on Vercel. -->
 <!-- ========================================================= -->
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufCaglarAksoy&layout=compact&theme=aura&hide_border=true&langs_count=8&cache_seconds=21600"
-    height="170"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-muhammedveysigulers-projects.vercel.app/api?username=MuhammedVeysiGuler&show_icons=true&theme=radical&count_private=true" alt="MuhammedVeysiGuler :: Profile Stats" />
+  <img src="https://github-readme-stats-muhammedveysigulers-projects.vercel.app/api/top-langs/?username=MuhammedVeysiGuler&theme=radical&layout=compact&count_private=true&langs_count=8" alt="MuhammedVeysiGuler :: Top Langs" />
+</p>
 
 <div align="center">
   <img
