@@ -32,7 +32,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <a href="https://www.linkedin.com/in/yusuf-caglar-aksoy" title="LinkedIn">
-    <img width="32px" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img width="32px" alt="LinkedIn"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+      style="filter: invert(31%) sepia(94%) saturate(1352%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
