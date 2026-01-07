@@ -31,10 +31,8 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="https://www.linkedin.com/in/yusuf-caglar-aksoy" title="LinkedIn">
-    <img width="32px" alt="LinkedIn"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
-      style="filter: invert(31%) sepia(94%) saturate(1352%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
+<a href="https://www.linkedin.com/in/yusuf-caglar-aksoy">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
