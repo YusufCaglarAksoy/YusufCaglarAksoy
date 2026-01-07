@@ -169,35 +169,6 @@ I am a Frontend Developer who builds scalable and high-performance web interface
 <br/>
 
 <!-- ========================================================= -->
-<!-- 📌 PINNED PROJECTS (MANUAL)                                 -->
-<!-- Replace repo names with your real ones you want to showcase -->
-<!-- ========================================================= -->
-
-<details open>
-  <summary><h2>📘 Featured Projects</h2></summary>
-
-  <p align="left">
-    <!-- Replace repo=... with your real pinned repos -->
-    <a href="https://github.com/YusufCaglarAksoy">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YusufCaglarAksoy&repo=REPO_1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-    </a>
-    <a href="https://github.com/YusufCaglarAksoy">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YusufCaglarAksoy&repo=REPO_2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-    </a>
-    <a href="https://github.com/YusufCaglarAksoy">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YusufCaglarAksoy&repo=REPO_3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-    </a>
-  </p>
-
-  <a href="https://github.com/YusufCaglarAksoy?tab=repositories">
-    <img alt="All Repos" title="All Repos"
-      src="https://custom-icon-badges.demolab.com/badge/-See%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
-  </a>
-</details>
-
-<br/>
-
-<!-- ========================================================= -->
 <!-- 📈 ACTIVITY GRAPH                                           -->
 <!-- ========================================================= -->
 
