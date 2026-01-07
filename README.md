@@ -1,19 +1,9 @@
 <!-- ===================== -->
 <!-- 📊 GitHub Stats -->
 <!-- ===================== -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&hide_border=true" 
-  />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=21600" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufCaglarAksoy&layout=compact&theme=aura&hide_border=true&langs_count=8&cache_seconds=21600" height="170" />
+
 
 ---
 
