@@ -76,10 +76,6 @@
     <img alt="portfolio" title="My Portfolio"
       src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-1F222E?style=for-the-badge&logo=link-external&logoColor=white" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img alt="views" title="GitHub profile views"
-      src="https://visitcount.itsvg.in/api?id=YusufCaglarAksoy&icon=5&color=6" />
-  </a>
 </p>
 
 <br/>
@@ -89,8 +85,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  I build <b>fast</b>, <b>pixel-perfect</b> and <b>scalable</b> web interfaces.<br/>
-  Mainly focused on <b>Vue 3 / Nuxt 3</b>, also experienced with <b>React / Next.js</b>, <b>Tailwind</b>, <b>Pinia</b>, <b>Highcharts</b>.
+I am a Frontend Developer who builds scalable and high-performance web interfaces using modern frontend technologies. I develop modular, user-focused, and data-driven applications with Vue 3, Nuxt 3, Next.js, and React.js, while creating clean and pixel-perfect UIs using Tailwind CSS, Material UI, and Bootstrap. I have experience in advanced data visualization with Highcharts, working with large datasets, and building robust state and API architectures with Pinia and Axios. I support my frontend expertise with knowledge of Node.js, .NET, and Laravel, contributing to end-to-end product development processes and prioritizing performance, security, clean code, and sustainable architecture.
 </p>
 
 <br/>
