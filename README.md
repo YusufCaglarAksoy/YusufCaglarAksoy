@@ -96,8 +96,8 @@ I am a Frontend Developer who builds scalable and high-performance web interface
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats-muhammedveysigulers-projects.vercel.app/api?username=MuhammedVeysiGuler&show_icons=true&theme=radical&count_private=true" alt="MuhammedVeysiGuler :: Profile Stats" />
-  <img src="https://github-readme-stats-muhammedveysigulers-projects.vercel.app/api/top-langs/?username=MuhammedVeysiGuler&theme=radical&layout=compact&count_private=true&langs_count=8" alt="MuhammedVeysiGuler :: Top Langs" />
+  <img src="https://github-readme-stats-YusufCaglarAksoy-projects.vercel.app/api?username=YusufCaglarAksoy&show_icons=true&theme=radical&count_private=true" alt="YusufCaglarAksoy :: Profile Stats" />
+  <img src="https://github-readme-stats-YusufCaglarAksoy-projects.vercel.app/api/top-langs/?username=YusufCaglarAksoy&theme=radical&layout=compact&count_private=true&langs_count=8" alt="YusufCaglarAksoy :: Top Langs" />
 </p>
 
 <div align="center">
