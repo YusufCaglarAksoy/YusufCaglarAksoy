@@ -2,20 +2,31 @@
 <!-- 📊 GitHub Stats -->
 <!-- ===================== -->
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" 
-    width="55%" 
-  />  
-  <br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YusufCaglarAksoy&theme=aura&hide_border=true" 
-    width="50%" 
-  />
-  <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufCaglarAksoy&theme=aura&hide_border=true&layout=compact" 
-    width="36%" 
-  />
+
+### Hi 👋 I'm Yusuf Çağlar Aksoy  
+**Senior Frontend Developer | Vue · Nuxt · React · Next.js**
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=YusufCaglarAksoy
+  &show_icons=true
+  &theme=aura
+  &hide_border=true
+  &include_all_commits=true
+  &count_private=true
+  &rank_icon=github
+  &custom_title=GitHub%20Stats"
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufCaglarAksoy
+  &layout=compact
+  &theme=aura
+  &hide_border=true
+  &langs_count=8"
+  height="170"
+/>
+
 </div>
 
 ---
