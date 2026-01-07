@@ -5,18 +5,7 @@
 <p align="center">
   <a href="https://yusufcaglaraksoy.com">
     <img
-      src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=210
-      &text=Yusuf%20%C3%87a%C4%9Flar%20Aksoy
-      &fontAlign=50
-      &fontAlignY=35
-      &color=0:FF8A00,100:007CF0
-      &desc=Frontend%20Developer%20%E2%80%A2%20Vue%20%2F%20Nuxt%20%2F%20React%20%2F%20Next.js
-      &descAlign=50
-      &descAlignY=55
-      &fontColor=FFFFFF
-      &animation=fadeIn"
+      src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Yusuf%20%C3%87a%C4%9Flar%20Aksoy&fontAlign=50&fontAlignY=35&color=0:FF8A00,100:007CF0&desc=Frontend%20Developer%20%E2%80%A2%20Vue%20%2F%20Nuxt%20%2F%20React%20%2F%20Next.js&descAlign=50&descAlignY=55&fontColor=FFFFFF&animation=fadeIn"
     />
   </a>
 </p>
